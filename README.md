@@ -20,3 +20,5 @@ Simulated a real-world transaction dataset (5000+ records) and analyzed fraud pa
 
 ## Business Impact
 Helps detect fraudulent activities and improve financial decision-making.
+## Analysis Output
+output.png
